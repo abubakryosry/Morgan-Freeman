@@ -3,7 +3,8 @@ Welcome to the Morgan Freeman Portfolio project repository! This project serves 
 
 ## Live Demo
 
-[Click Here to View Live Demo]([https://abubakryosry.github.io/Movie/](https://abubakryosry.github.io/Morgan-Freeman/))
+[Click Here to View Live Demo]<a href="https://abubakryosry.github.io/Morgan-Freeman/" style="padding: 10px 20px; background-color: #007BFF; color: #FFFFFF; text-decoration: none; border-radius: 5px;">Click Here to View Live Demo</a>
+
 
 ## Technologies Used
 
